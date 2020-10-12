@@ -1,0 +1,262 @@
+.nav1{
+    background: linear-gradient(to top left, #5c00dd 30%, #5c00dd 70.1%);
+    
+    /* background-color:#5c00dd; */
+    padding: 20px;
+    color: white;
+}
+
+.nav1:hover{
+    color: rgb(245, 89, 245);
+}
+
+.secondnav11{
+    float: right;
+    margin-bottom: 20px;
+    margin-right: 70px;
+    line-height: normal;
+    font-size: 20px;
+    font-family: cursive;
+    
+}
+
+.firstnav{
+    margin-left: 40px;
+}
+
+.navtext{
+    margin-right: 300px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial, sans-serif';
+    font-weight: 600;
+    
+}
+
+#container-fluid{
+    background-color:#9042fd;
+}
+
+.link3{
+   margin-right: 20px;
+}
+
+.links:hover{
+    background-color: purple;
+}
+
+.nextlevel{
+    /* background-color:#5c00dd; */
+    padding: 50px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Segoe UI', Tahoma, Geneva, Verdana, sans-serif */
+
+
+.nextlevel {
+    background: linear-gradient(to top left, #fff 30%, #5c00dd 70.1%);
+    }
+
+    /* #overview {
+        background: linear-gradient(to top left, #ebebeb 50%, #fff 50.2%);
+        } */
+
+.nextlevel h1{
+    font-weight: 700;
+    font-size: 70px;
+}
+
+.nextlevel p{
+    font-weight: 200;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.button{
+    background-color: white;
+    border: none;
+    color: blueviolet;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* margin: 4px 2px; */
+    border-radius: 19px;
+}
+
+.button:hover{
+    background-color: blueviolet;
+    color: white;
+}
+
+.image{
+    float: right;
+    margin-top: 40px;
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    margin-bottom: 300px;
+    margin-left: 70px;
+ 
+}
+
+.nextsection p{
+    text-align: center;
+    margin-left: 470px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 40px;
+}
+
+.nextsection h1{
+    text-align: center;
+    margin-left: 440px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 33px;
+    font-weight: 900;
+}
+
+.set1{
+    margin-right: 400px;
+}
+
+.set2{
+    margin-right: 80px;
+}
+
+#set{
+    text-align: center;
+
+}
+
+.row{
+    margin-top: 30px;
+
+}
+
+.row h2{
+    color: rgb(252, 248, 255);
+    width: 40px;
+      height: 40px;
+      background: #8a2be2;
+      border-radius: 50%;
+      text-align: center;
+      font-family: cursive;
+}
+
+.row h2:after{
+    content: "";
+    display: block;
+    width: 120px;
+    height: 2px;
+    background: rgb(43, 5, 43);
+    right: 160px;
+    top: 15%;
+    position: absolute;
+}
+
+.row h4{
+    font-family: cursive;
+}
+
+#about-section{
+    background: linear-gradient(to top left, #efebf5 30%, #dac2fc 70.1%);
+}
+
+.img22{
+    margin-top: 290px;
+
+   
+}
+
+#About{
+    background-color: rgb(254, 239, 255);
+}
+
+.jjj{
+    float: right;
+   
+}
+
+.topj{
+    margin-top: 30px;
+   
+}
+
+#about-section1{
+    margin-top: 20px;
+    background: linear-gradient(to top left, #e7ddf7 30%, #e9ddfa 70.1%);
+}
+
+.textonly{
+    background: linear-gradient(to top left, #681ae6 30%, #7624e7 70.1%);
+    padding: 100px;
+}
+
+.textonly h1{
+    text-align: center;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+.icon{
+    margin-left: 450px;
+    color: white;
+
+}   
+
+.stocksection{
+    margin-top: 30px;
+}
+
+.lasttext{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 100px;
+}
+
+.button1 a{
+    border-radius: 5px 25px;
+    background-color: #5c00dd;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.button1 a:hover{
+    background-color: blueviolet;
+    color: white;
+}
+
+.secondnav22{
+    float: right;
+    margin-bottom: 20px;
+    margin-right: 70px;
+    line-height: normal;
+    font-size: 20px;
+    font-family: cursive;
+    
+}
+
+.nav2{
+    background: linear-gradient(to top left, #000000 30%, #010002 70.1%);
+    color: white;
+
+}
+
+.list-unstyled{
+    text-decoration: none;
+    color: white;
+}
+/* .col{
+    background-color: rgb(248, 239, 248);
+    border-color: rgb(148, 30, 132);
+    border-width: 1px;
+ 	border-style: dotted;
+    
+  
+} */
+   
